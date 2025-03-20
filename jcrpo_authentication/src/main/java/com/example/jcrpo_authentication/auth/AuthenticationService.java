@@ -1,9 +1,9 @@
-package com.example.demo.auth;
+package com.example.jcrpo_authentication.auth;
 
-import com.example.demo.config.JwtService;
-import com.example.demo.user.Role;
-import com.example.demo.user.User;
-import com.example.demo.user.UserRepository;
+import com.example.jcrpo_authentication.config.JwtService;
+import com.example.jcrpo_authentication.user.Role;
+import com.example.jcrpo_authentication.user.User;
+import com.example.jcrpo_authentication.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

@@ -1,4 +1,4 @@
-package com.example.demo.user;
+package com.example.jcrpo_authentication.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

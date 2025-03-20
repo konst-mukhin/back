@@ -1,4 +1,4 @@
-package com.example.demo.config;
+package com.example.jcrpo_authentication.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

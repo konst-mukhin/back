@@ -1,4 +1,4 @@
-package com.example.demo.auth;
+package com.example.jcrpo_authentication.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
